@@ -4,6 +4,9 @@ public class test {
         //this is a test
         
         System.out.println("Hello GitHub!");
+        
+        //new commit here
+        System.out.println("Testing Commit number 2");
     }
 
 }
